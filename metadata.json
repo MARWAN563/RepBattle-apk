@@ -1,0 +1,6 @@
+{
+  "name": "RepBattle",
+  "description": "The complete athletic competition engine. Combines computer-vision pose detection, ghost duels, automated rep validation, and instant viral brag loops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
